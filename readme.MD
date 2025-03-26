@@ -203,5 +203,5 @@ npm run dev
 ✅ If the response is found in **Elasticsearch**, it returns that answer.
 ✅ If not, it queries **LM Studio** for a response.
 
-<!-- 🚀 **Your chatbot is now fully functional and you should see a response from the chatbot successfully!** -->
+🚀 **Your chatbot is now fully functional and you should see a response from the chatbot successfully!**
 
